@@ -57,4 +57,3 @@ Processed datasets integrating socio-economic drivers and all analytical code ar
 Citation
 If you use this data or code in your research, please cite:
 Xu, L., He, N. P., & Yu, G. R. (2020). 2010s中国陆地生态系统碳密度数据集 [2010s China's terrestrial ecosystem carbon density dataset] (Version 1) [Dataset]. National Ecosystem Science Data Center. https://doi.org/10.11922/sciencedb.603
-and
